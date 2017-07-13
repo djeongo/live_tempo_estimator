@@ -4,6 +4,8 @@
 
 Live tempo estimator using internal mic. It displays a chart showing tempo vs. time.
 
+![Alt text](/img/screen_capture.jpg?raw=true "Screen capture of Live Tempo Estimator")
+
 Tested macOS Sierra 10.12.4.
 
 ## Installation
@@ -18,7 +20,7 @@ librosa
 ### PyQt4
 In MacOSX, use brew to install PyQt4
 
-brew install cartr/qt4/pyqt
+$ brew install cartr/qt4/pyqt
 
 ## Usage
 
